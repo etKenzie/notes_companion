@@ -1,4 +1,4 @@
-package com.example.shopping_companion
+package com.example.notes_companion
 
 import org.junit.Test
 

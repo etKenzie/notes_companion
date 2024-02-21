@@ -1,14 +1,13 @@
-package com.example.shopping_companion
+package com.example.notes_companion
 
 import android.os.Bundle
 import android.text.Editable
 import android.text.TextWatcher
-import android.util.Log
 import android.view.View
 import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
-import com.example.shopping_companion.MainActivity.Companion.arrayAdapter
-import com.example.shopping_companion.MainActivity.Companion.notes
+import com.example.notes_companion.MainActivity.Companion.arrayAdapter
+import com.example.notes_companion.MainActivity.Companion.notes
 
 
 class NoteEditingActivity : AppCompatActivity() {

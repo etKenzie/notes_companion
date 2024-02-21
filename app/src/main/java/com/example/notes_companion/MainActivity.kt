@@ -1,4 +1,4 @@
-package com.example.shopping_companion
+package com.example.notes_companion
 
 import android.app.AlertDialog
 import android.content.DialogInterface
@@ -22,10 +22,6 @@ Mobile Application Security CSCI 445
 */
 
 class MainActivity : AppCompatActivity() {
-
-    // Note Variables
-//    var notes = ArrayList<String>()
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.shopping_companion"
+    namespace = "com.example.notes_companion"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.shopping_companion"
+        applicationId = "com.example.notes_companion"
         minSdk = 31
         targetSdk = 34
         versionCode = 1
